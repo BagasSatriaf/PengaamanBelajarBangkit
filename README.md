@@ -1,11 +1,18 @@
-# PengaamanBelajarBangkit
-Repository ini berisi pengalaman kegiatan belajar di Bangkit Academy 2023
+# PengalamanBelajar
 
-21 Februari 2021
-*Belajar kelas Git dengan GitHub (Progress 99%)
-*Belajar tools yang dapat digunakan untuk menjalankan Git 
+Repository Ini Berisi Pengalaman Belajar di Dicoding
 
-15 Juni 2021
+
+**14 Juni 2021**  
+
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
+
+  * Belajar tentang apa itu Java dan alasan menggunakannya.
+
+  * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
+
+
+**15 Juni 2021**  
 
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 
